@@ -1,0 +1,16 @@
+.private-layout {
+  display: flex;
+  flex-direction: row;
+
+  .container-layout {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .container-fluid {
+    background-color: inherit;
+    padding: 1rem 3rem;
+    background-color: #F1F8FF;
+  }
+}

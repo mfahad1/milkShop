@@ -1,0 +1,27 @@
+.product-info {
+  .choose-product {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    .btn {
+      background: #FFFFFF 0% 0% no-repeat padding-box;
+      border: 1px solid #02BAD2;
+      padding: 0rem 3rem;
+      opacity: 1;
+      border-radius: 0px;
+      color: black;
+      font-size: 15px;
+      margin-bottom: 1rem;
+
+      &.selected {
+        background: transparent linear-gradient(102deg, #1F66CC 0%, #00BED2 100%) 0% 0% no-repeat padding-box;
+        color: white;
+      }
+    }
+  }
+
+  .form {
+    margin-bottom: 2rem;
+  }
+}

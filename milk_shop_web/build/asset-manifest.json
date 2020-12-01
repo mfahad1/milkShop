@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.539bde81.chunk.css",
+    "main.js": "/static/js/main.4b60ba88.chunk.js",
+    "main.js.map": "/static/js/main.4b60ba88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f88905cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f88905cd.js.map",
+    "static/css/2.01876ef7.chunk.css": "/static/css/2.01876ef7.chunk.css",
+    "static/js/2.4ced491b.chunk.js": "/static/js/2.4ced491b.chunk.js",
+    "static/js/2.4ced491b.chunk.js.map": "/static/js/2.4ced491b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b659cf44162010e90c1e3a920c9b4167.js": "/precache-manifest.b659cf44162010e90c1e3a920c9b4167.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.01876ef7.chunk.css.map": "/static/css/2.01876ef7.chunk.css.map",
+    "static/css/main.539bde81.chunk.css.map": "/static/css/main.539bde81.chunk.css.map",
+    "static/js/2.4ced491b.chunk.js.LICENSE.txt": "/static/js/2.4ced491b.chunk.js.LICENSE.txt",
+    "static/media/retweet.eb3f7047.svg": "/static/media/retweet.eb3f7047.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f88905cd.js",
+    "static/css/2.01876ef7.chunk.css",
+    "static/js/2.4ced491b.chunk.js",
+    "static/css/main.539bde81.chunk.css",
+    "static/js/main.4b60ba88.chunk.js"
+  ]
+}

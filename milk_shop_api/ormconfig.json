@@ -1,0 +1,17 @@
+{
+    "type": "postgres",
+    "host": "postgres",
+    "port": 5432,
+    "username": "milkshop",
+    "password": 1234,
+    "database": "milkshop",
+    "synchronize": true,
+    "logging": "all",
+    "entities": ["src/models/**/*"],
+    "migrations": ["src/migrations/**/*"],
+    "subscribers": ["src/subscriber/**/*"],
+    "cli": {
+        "migrationsDir": "src/migrations",
+        "entitiesDir": "src/models"
+    }
+}
